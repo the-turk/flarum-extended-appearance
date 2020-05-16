@@ -39,7 +39,7 @@ Just enable the extension and go to the "Appearance" settings.
 
 ## Links
 
-- [Flarum Discuss post](https://discuss.flarum.org/)
+- [Flarum Discuss post](https://discuss.flarum.org/d/23827-extended-appearance-settings)
 - [Source code on GitHub](https://github.com/the-turk/flarum-extended-appearance)
 - [Changelog](https://github.com/the-turk/flarum-extended-appearance/blob/master/CHANGELOG.md)
 - [Report an issue](https://github.com/the-turk/flarum-extended-appearance/issues)
