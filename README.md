@@ -4,7 +4,7 @@
 
 It can be so hard sometimes to choose best colors that go together while customizing Flarum and it's nightmare if you're using admin panel-only for adding some custom LESS/CSS/HTML - especially if you're a newcomer or less technical. I hope this extension speeds up your customization process and gives you some inspiration for your next Flarum theme as it does for me.
 
-![Colors](https://i.ibb.co/m9P0qVh/WPSFery50q.gif)
+![Colors](https://i.imgur.com/Ix7Z6XB.gif)
 
 ![CodeMirror](https://i.ibb.co/BTr4tzn/code-Mirror.png)
 
