@@ -7,6 +7,7 @@
     "settings"
   ],
   "type": "flarum-extension",
+  "license": "MIT",
   "authors": [{
     "name": "Hasan Özbey",
     "email": "hasanoozbey@gmail.com",
