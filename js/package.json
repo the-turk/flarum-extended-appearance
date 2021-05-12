@@ -7,7 +7,7 @@
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11",
 	  "@simonwep/pickr": "^1.6.0",
-    "codemirror": "^5.53.2",
+    "codemirror": "^5.58.2",
     "color-convert": "^2.0.1",
     "copy-webpack-plugin": "^5.1.1"
   },
